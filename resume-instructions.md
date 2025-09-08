@@ -31,9 +31,10 @@ This is the single source of truth for all roles, skills, tools, and achievement
 ---
 
 ## Tailoring Workflow
-1. **Input from User**  
-   - Link to the job posting **or** paste the job description.  
-   - Any special notes (e.g., “emphasize API docs” or “downplay healthcare”).
+1. **Provide Input**  
+   - Link to this instruction page.  
+   - Paste the full job posting text (or link + pasted content if the source is not accessible).  
+   - Add any emphasis/de‑emphasis notes (e.g., “emphasize API docs” or “downplay healthcare”).
 2. **Analysis**  
    - Identify the posting’s core deliverables, must‑have skills, nice‑to‑have skills, and cultural cues.  
    - Map these to the most relevant bullets, tools, and metrics from the master résumé.
@@ -41,17 +42,17 @@ This is the single source of truth for all roles, skills, tools, and achievement
    - Re‑order and trim bullets to surface the most relevant content first.  
    - Adjust phrasing to match the job’s language and ATS keywords.
 4. **Output**  
-   - Tailored résumé text (ready to paste into the master file or export).  
-   - Matching cover letter draft.
+   - **Tailored résumé text** — formatted and ready to paste into MS Word.  
+   - **Matching cover letter** — formatted and ready to paste into MS Word.
 
 ---
 
 ## Cover Letter Guidelines
-- **Length**: 3 short paragraphs.
-- **Structure**:  
+- **Length:** 3 short paragraphs.
+- **Structure:**  
   1. **Hook** — Show alignment with the role/company and reference a specific detail from the posting.  
   2. **Proof** — Highlight 2–3 achievements/tools from the master résumé that directly solve their needs.  
   3. **Close** — Confident call to action.
 - Avoid generic statements; make it feel written for *this* role only.
 
-
+---

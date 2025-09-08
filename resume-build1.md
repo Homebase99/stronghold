@@ -7,14 +7,15 @@ layout: default
 
 Technical Writer (End-User Documentation)
 
-dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/dalexxxxxgxxxx
+Manila, Philippines • Remote (UTC+8) • +63 969-xxx-0969 
+dalexxxxxx@gmail.com • linkedin.com/in/dalexxxxxgxxxx • Portfolio: hiredale.com
 
 ---
 
 ## **PROFESSIONAL SUMMARY**
-Technical Writer with 13+ years specializing in healthcare, fintech, SaaS, and device documentation. Experienced in creating customer‑facing and developer‑facing documentation, including help systems, release notes, troubleshooting guides, and API references. 
+Technical Writer with 13+ years of experience creating clear, user-friendly documentation for healthcare, fintech, SaaS, and hardware products. Specialized in customer-facing materials—help systems, release notes, and troubleshooting guides—with additional experience producing API references.
 
-With strong proficiency in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Known for producing clear, accessible materials that reduce support calls, accelerate onboarding, and promote user self‑reliance across both digital and hardware platforms.
+Skilled in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Recognized for producing accessible materials that reduce support calls, speed onboarding, and strengthen user self-reliance.  
 
 ---
 

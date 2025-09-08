@@ -12,7 +12,7 @@ dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 ---
 
 ## **PROFESSIONAL SUMMARY**
-Technical Writer with 13+ years creating end user documentation for medical, healthcare, fintech, SaaS, and physical device products. Expert in modular help systems, release notes, and online support content that balance precision with accessibility. Skilled in medical and healthcare software, with additional experience in API documentation, e learning, and graphic design for visual assets, diagrams, and layouts that enhance documentation usability. Delivers clear, usable content for both hardware and digital platforms.
+Technical Writer with 13+ years’ experience in healthcare, fintech, SaaS, and device documentation. Expert in creating modular user assistance content — including help systems and release notes — and API documentation, with strong proficiency in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Known for producing clear, accurate materials that help users quickly understand complex instructions and concepts across both digital and hardware platforms.
 
 ---
 

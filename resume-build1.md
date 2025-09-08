@@ -3,6 +3,9 @@ title: ""
 description: ""
 layout: default
 ---
+
+Version 1.000001
+
 # **DALE GXXXX**  
 
 Technical Writer (End-User Documentation)

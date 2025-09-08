@@ -4,8 +4,6 @@ description: ""
 theme: default
 ---
 
-# Instructions for Resume Tailoring:
-
 # Resume Tailoring Instructions
 
 **Master Source**  

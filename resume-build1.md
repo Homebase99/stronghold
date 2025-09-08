@@ -12,16 +12,18 @@ dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/d
 ---
 
 ## **PROFESSIONAL SUMMARY**
-Technical Writer with 13+ years’ experience in healthcare, fintech, SaaS, and device documentation. Expert in creating modular user assistance content — including help systems and release notes — and API documentation, with strong proficiency in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Known for producing clear, accurate materials that help users quickly understand complex instructions and concepts across both digital and hardware platforms.
+Technical Writer with 13+ years specializing in healthcare, fintech, SaaS, and device documentation. Experienced in creating customer‑facing and developer‑facing documentation, including help systems, release notes, troubleshooting guides, and API references. 
+
+With strong proficiency in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Known for producing clear, accessible materials that reduce support calls, accelerate onboarding, and promote user self‑reliance across both digital and hardware platforms.
 
 ---
 
 ## **CORE COMPETENCIES** 
-- **Tools & Platforms** – Adobe Products (RoboHelp, FrameMaker, Captivate, Acrobat, Photoshop, Illustrator), Microsoft Office (Word, Excel, Visio), OneDrive, SharePoint, Jira (Agile & Waterfall), Confluence, GitHub, WordPress, MadCap Flare, TortoiseSVN, cloud-based document management
+- **Tools & Platforms** – Adobe Technical Suite, Microsoft Office, OneDrive, SharePoint, Jira (Agile & Waterfall), Confluence, GitHub, WordPress, MadCap Flare, TortoiseSVN, cloud-based document management
 - **End User Documentation** – Help files, release notes, troubleshooting guides, online support content, user manuals, modular help systems, version changelogs
+- **AI-Assisted Content Creation** – Workflow design and execution using ChatGPT and Microsoft Copilot for drafting, editing, and style enforcement
 - **Product & API Documentation** – API references, RESTful API documentation, SaaS documentation, integration guides
 - **Content Development & Delivery** – E-learning scripts, multimedia integration, style guide compliance, structured authoring, single sourcing, content reuse
-- **AI-Assisted Content Creation** – Workflow design and execution using ChatGPT and Microsoft Copilot for drafting, editing, and style enforcement
 - **Collaboration & Workflow** – Agile/Scrum, Waterfall, SME engagement, international coordination, collaborated with developers, QA, and product teams.
 - **Technical Standards & Formats** – DITA XML, Markdown, HTML/CSS, version control (Git, Subversion)
 

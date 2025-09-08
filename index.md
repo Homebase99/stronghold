@@ -1,6 +1,6 @@
 ---
-Title: "Homebase Stronghold"
-Description: "Test test"
+title: "Homebase Stronghold"
+description: "Test test"
 theme: default
 ---
 

@@ -7,9 +7,7 @@ layout: default
 
 Technical Writer (End-User Documentation)
 
-Manila, Philippines • Remote (UTC+8) • +63 969-xxx-0969 
-
-dalexxxxxx@gmail.com • linkedin.com/in/dalexxxxxgxxxx • Portfolio: hiredale.com
++63 969-xxx-0969 • dalexxxxxx@gmail.com • linkedin.com/in/dalexxxxxgxxxx • hiredale.com
 
 ---
 

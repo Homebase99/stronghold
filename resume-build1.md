@@ -5,7 +5,7 @@ layout: default
 ---
 # **DALE GXXXX**  
 
-Technical Writer - End-User Documentation
+Technical Writer (End-User Documentation)
 
 dalexxxxxx@gmail.com • +63 969-xxx-0969 • hiredale.com • linkedin.com/in/dalexxxxxgxxxx
 

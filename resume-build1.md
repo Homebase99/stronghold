@@ -14,9 +14,9 @@ dalexxxxxx@gmail.com • linkedin.com/in/dalexxxxxgxxxx • Portfolio: hiredale.
 ---
 
 ## **PROFESSIONAL SUMMARY**
-Technical Writer with 13+ years of experience creating clear, user-friendly documentation for healthcare, fintech, SaaS, and hardware products. Specialized in customer-facing materials—help systems, release notes, and troubleshooting guides—with additional experience producing API references.
+Technical Writer with 13+ years of experience creating clear, user-friendly documentation for healthcare, fintech, SaaS, and hardware products. Background in customer-facing materials—help systems, release notes, and troubleshooting guides—with additional experience producing API references.
 
-Skilled in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Recognized for producing accessible materials that reduce support calls, speed onboarding, and strengthen user self-reliance.  
+Proficient in Adobe tools, DITA XML, AI‑assisted authoring, and visual asset design. Recognized for producing accessible materials that reduce support calls, speed onboarding, and strengthen user self-reliance.  
 
 ---
 

@@ -56,7 +56,4 @@ This is the single source of truth for all roles, skills, tools, and achievement
   3. **Close** — Confident call to action.
 - Avoid generic statements; make it feel written for *this* role only.
 
----
 
-## Request Template
-When requesting tailoring, provide:
